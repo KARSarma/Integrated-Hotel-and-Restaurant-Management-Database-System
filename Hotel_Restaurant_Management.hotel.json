@@ -1,0 +1,100 @@
+[{
+  "_id": {
+    "$oid": "656ce0d863cc1ef44860afb0"
+  },
+  "Hotel_ID": 101,
+  "Hotel_email": "sheraton_boston@gmail.com",
+  "Hotel_phone_no": "123-456-7890",
+  "Hotel_name": "Sheraton Boston",
+  "Hotel_address": "39 Dalton St, Boston, MA"
+},
+{
+  "_id": {
+    "$oid": "656ce0d863cc1ef44860afb1"
+  },
+  "Hotel_ID": 102,
+  "Hotel_email": "marriott_cambridge@gmail.com",
+  "Hotel_phone_no": "987-654-3210",
+  "Hotel_name": "Marriott Cambridge",
+  "Hotel_address": "2 Cambridge Center, Cambridge, MA"
+},
+{
+  "_id": {
+    "$oid": "656ce0d863cc1ef44860afb2"
+  },
+  "Hotel_ID": 103,
+  "Hotel_email": "hyatt_regency_boston@gmail.com",
+  "Hotel_phone_no": "111-222-3333",
+  "Hotel_name": "Hyatt Regency Boston",
+  "Hotel_address": "1 Avenue de Lafayette, Boston, MA"
+},
+{
+  "_id": {
+    "$oid": "656ce0d863cc1ef44860afb3"
+  },
+  "Hotel_ID": 104,
+  "Hotel_email": "hilton_back_bay@gmail.com",
+  "Hotel_phone_no": "555-111-2222",
+  "Hotel_name": "Hilton Boston Back Bay",
+  "Hotel_address": "40 Dalton St, Boston, MA"
+},
+{
+  "_id": {
+    "$oid": "656ce0d863cc1ef44860afb4"
+  },
+  "Hotel_ID": 105,
+  "Hotel_email": "westin_waterfront@gmail.com",
+  "Hotel_phone_no": "888-333-4444",
+  "Hotel_name": "The Westin Boston Waterfront",
+  "Hotel_address": "425 Summer St, Boston, MA"
+},
+{
+  "_id": {
+    "$oid": "656ce0d863cc1ef44860afb5"
+  },
+  "Hotel_ID": 106,
+  "Hotel_email": "doubletree_downtown@gmail.com",
+  "Hotel_phone_no": "777-555-4444",
+  "Hotel_name": "DoubleTree Downtown Boston",
+  "Hotel_address": "821 Washington St, Boston, MA"
+},
+{
+  "_id": {
+    "$oid": "656ce0d863cc1ef44860afb6"
+  },
+  "Hotel_ID": 107,
+  "Hotel_email": "fairmont_copley@gmail.com",
+  "Hotel_phone_no": "333-999-8888",
+  "Hotel_name": "Fairmont Copley Plaza",
+  "Hotel_address": "138 St James Ave, Boston, MA"
+},
+{
+  "_id": {
+    "$oid": "656ce0d863cc1ef44860afb7"
+  },
+  "Hotel_ID": 108,
+  "Hotel_email": "omni_parker@gmail.com",
+  "Hotel_phone_no": "111-777-6666",
+  "Hotel_name": "Omni Parker House",
+  "Hotel_address": "60 School St, Boston, MA"
+},
+{
+  "_id": {
+    "$oid": "656ce0d863cc1ef44860afb8"
+  },
+  "Hotel_ID": 109,
+  "Hotel_email": "ritz_carlton@gmail.com",
+  "Hotel_phone_no": "222-444-5555",
+  "Hotel_name": "The Ritz-Carlton Boston",
+  "Hotel_address": "10 Avery St, Boston, MA"
+},
+{
+  "_id": {
+    "$oid": "656ce0d863cc1ef44860afb9"
+  },
+  "Hotel_ID": 110,
+  "Hotel_email": "intercontinental@gmail.com",
+  "Hotel_phone_no": "888-222-1111",
+  "Hotel_name": "InterContinental Boston",
+  "Hotel_address": "510 Atlantic Ave, Boston, MA"
+}]

@@ -1,0 +1,80 @@
+[{
+  "_id": {
+    "$oid": "656ce05563cc1ef44860afa5"
+  },
+  "Employee_ID": 501,
+  "Employee_name": "Emily Davis",
+  "Manager_ID": 401
+},
+{
+  "_id": {
+    "$oid": "656ce05563cc1ef44860afa6"
+  },
+  "Employee_ID": 502,
+  "Employee_name": "Daniel Wilson",
+  "Manager_ID": 401
+},
+{
+  "_id": {
+    "$oid": "656ce05563cc1ef44860afa7"
+  },
+  "Employee_ID": 503,
+  "Employee_name": "Jessica Miller",
+  "Manager_ID": 402
+},
+{
+  "_id": {
+    "$oid": "656ce05563cc1ef44860afa8"
+  },
+  "Employee_ID": 504,
+  "Employee_name": "Mark Anderson",
+  "Manager_ID": 402
+},
+{
+  "_id": {
+    "$oid": "656ce05563cc1ef44860afa9"
+  },
+  "Employee_ID": 505,
+  "Employee_name": "Catherine White",
+  "Manager_ID": 403
+},
+{
+  "_id": {
+    "$oid": "656ce05563cc1ef44860afaa"
+  },
+  "Employee_ID": 511,
+  "Employee_name": "Ella Wilson",
+  "Manager_ID": 406
+},
+{
+  "_id": {
+    "$oid": "656ce05563cc1ef44860afab"
+  },
+  "Employee_ID": 512,
+  "Employee_name": "Noah Davis",
+  "Manager_ID": 406
+},
+{
+  "_id": {
+    "$oid": "656ce05563cc1ef44860afac"
+  },
+  "Employee_ID": 513,
+  "Employee_name": "Mia Taylor",
+  "Manager_ID": 407
+},
+{
+  "_id": {
+    "$oid": "656ce05563cc1ef44860afad"
+  },
+  "Employee_ID": 514,
+  "Employee_name": "William Smith",
+  "Manager_ID": 407
+},
+{
+  "_id": {
+    "$oid": "656ce05563cc1ef44860afae"
+  },
+  "Employee_ID": 515,
+  "Employee_name": "Sophia Johnson",
+  "Manager_ID": 408
+}]
