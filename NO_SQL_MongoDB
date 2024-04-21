@@ -1,0 +1,6 @@
+git init
+git add C:\Users\anisa\OneDrive\Documents\Integrated-Hotel-and-Restaurant-Management-Database-System_No_SQL_MongoDB
+git commit -m "Your message about the commit"
+git remote add origin https://github.com/KARSarma.git
+git push -u origin master
+git push origin master
