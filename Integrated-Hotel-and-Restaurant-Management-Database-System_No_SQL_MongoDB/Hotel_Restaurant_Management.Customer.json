@@ -1,0 +1,414 @@
+[{
+  "_id": {
+    "$oid": "656cdd3d63cc1ef44860af2c"
+  },
+  "Cust_ID": 311,
+  "Cust_name": "Sophie Miller",
+  "Cust_phone": "222-333-4444",
+  "Hotel_ID": 101
+},
+{
+  "_id": {
+    "$oid": "656cdd3d63cc1ef44860af2d"
+  },
+  "Cust_ID": 312,
+  "Cust_name": "William Davis",
+  "Cust_phone": "777-999-1111",
+  "Hotel_ID": 102
+},
+{
+  "_id": {
+    "$oid": "656cdd3d63cc1ef44860af2e"
+  },
+  "Cust_ID": 313,
+  "Cust_name": "Ella Johnson",
+  "Cust_phone": "444-555-7777",
+  "Hotel_ID": 103
+},
+{
+  "_id": {
+    "$oid": "656cdd3d63cc1ef44860af2f"
+  },
+  "Cust_ID": 314,
+  "Cust_name": "Noah Brown",
+  "Cust_phone": "666-888-3333",
+  "Hotel_ID": 104
+},
+{
+  "_id": {
+    "$oid": "656cdd3d63cc1ef44860af30"
+  },
+  "Cust_ID": 315,
+  "Cust_name": "Mia Wilson",
+  "Cust_phone": "111-555-9999",
+  "Hotel_ID": 105
+},
+{
+  "_id": {
+    "$oid": "656cdd3d63cc1ef44860af31"
+  },
+  "Cust_ID": 316,
+  "Cust_name": "Liam Anderson",
+  "Cust_phone": "888-333-7777",
+  "Hotel_ID": 106
+},
+{
+  "_id": {
+    "$oid": "656cdd3d63cc1ef44860af32"
+  },
+  "Cust_ID": 317,
+  "Cust_name": "Aiden Taylor",
+  "Cust_phone": "333-444-6666",
+  "Hotel_ID": 107
+},
+{
+  "_id": {
+    "$oid": "656cdd3d63cc1ef44860af33"
+  },
+  "Cust_ID": 318,
+  "Cust_name": "Grace Smith",
+  "Cust_phone": "555-777-1111",
+  "Hotel_ID": 108
+},
+{
+  "_id": {
+    "$oid": "656cdd3d63cc1ef44860af34"
+  },
+  "Cust_ID": 319,
+  "Cust_name": "Emma Davis",
+  "Cust_phone": "777-999-5555",
+  "Hotel_ID": 109
+},
+{
+  "_id": {
+    "$oid": "656cdd3d63cc1ef44860af35"
+  },
+  "Cust_ID": 320,
+  "Cust_name": "Oliver Miller",
+  "Cust_phone": "333-444-8888",
+  "Hotel_ID": 110
+},
+{
+  "_id": {
+    "$oid": "656cdd3d63cc1ef44860af36"
+  },
+  "Cust_ID": 321,
+  "Cust_name": "Avery White",
+  "Cust_phone": "111-222-3333",
+  "Hotel_ID": 101
+},
+{
+  "_id": {
+    "$oid": "656cdd3d63cc1ef44860af37"
+  },
+  "Cust_ID": 322,
+  "Cust_name": "Logan Smith",
+  "Cust_phone": "444-666-7777",
+  "Hotel_ID": 102
+},
+{
+  "_id": {
+    "$oid": "656cdd3d63cc1ef44860af38"
+  },
+  "Cust_ID": 323,
+  "Cust_name": "Scarlett Johnson",
+  "Cust_phone": "777-333-5555",
+  "Hotel_ID": 103
+},
+{
+  "_id": {
+    "$oid": "656cdd3d63cc1ef44860af39"
+  },
+  "Cust_ID": 324,
+  "Cust_name": "Henry Taylor",
+  "Cust_phone": "888-444-9999",
+  "Hotel_ID": 104
+},
+{
+  "_id": {
+    "$oid": "656cdd3d63cc1ef44860af3a"
+  },
+  "Cust_ID": 325,
+  "Cust_name": "Amelia Brown",
+  "Cust_phone": "666-222-1111",
+  "Hotel_ID": 105
+},
+{
+  "_id": {
+    "$oid": "656cdd3d63cc1ef44860af3b"
+  },
+  "Cust_ID": 326,
+  "Cust_name": "Ethan Wilson",
+  "Cust_phone": "555-888-6666",
+  "Hotel_ID": 106
+},
+{
+  "_id": {
+    "$oid": "656cdd3d63cc1ef44860af3c"
+  },
+  "Cust_ID": 327,
+  "Cust_name": "Madison Davis",
+  "Cust_phone": "777-555-9999",
+  "Hotel_ID": 107
+},
+{
+  "_id": {
+    "$oid": "656cdd3d63cc1ef44860af3d"
+  },
+  "Cust_ID": 328,
+  "Cust_name": "Jackson Smith",
+  "Cust_phone": "111-999-5555",
+  "Hotel_ID": 108
+},
+{
+  "_id": {
+    "$oid": "656cdd3d63cc1ef44860af3e"
+  },
+  "Cust_ID": 329,
+  "Cust_name": "Chloe Anderson",
+  "Cust_phone": "444-777-3333",
+  "Hotel_ID": 109
+},
+{
+  "_id": {
+    "$oid": "656cdd3d63cc1ef44860af3f"
+  },
+  "Cust_ID": 330,
+  "Cust_name": "Carter Taylor",
+  "Cust_phone": "333-555-6666",
+  "Hotel_ID": 110
+},
+{
+  "_id": {
+    "$oid": "656cdd3d63cc1ef44860af40"
+  },
+  "Cust_ID": 331,
+  "Cust_name": "Abigail Johnson",
+  "Cust_phone": "555-666-8888",
+  "Hotel_ID": 101
+},
+{
+  "_id": {
+    "$oid": "656cdd3d63cc1ef44860af41"
+  },
+  "Cust_ID": 332,
+  "Cust_name": "Alexander Smith",
+  "Cust_phone": "666-777-9999",
+  "Hotel_ID": 102
+},
+{
+  "_id": {
+    "$oid": "656cdd3d63cc1ef44860af42"
+  },
+  "Cust_ID": 333,
+  "Cust_name": "Aria White",
+  "Cust_phone": "777-888-1111",
+  "Hotel_ID": 103
+},
+{
+  "_id": {
+    "$oid": "656cdd3d63cc1ef44860af43"
+  },
+  "Cust_ID": 334,
+  "Cust_name": "Sebastian Davis",
+  "Cust_phone": "888-444-5555",
+  "Hotel_ID": 104
+},
+{
+  "_id": {
+    "$oid": "656cdd3d63cc1ef44860af44"
+  },
+  "Cust_ID": 335,
+  "Cust_name": "Lily Wilson",
+  "Cust_phone": "111-666-9999",
+  "Hotel_ID": 105
+},
+{
+  "_id": {
+    "$oid": "656cdd3d63cc1ef44860af45"
+  },
+  "Cust_ID": 336,
+  "Cust_name": "Gabriel Brown",
+  "Cust_phone": "444-555-3333",
+  "Hotel_ID": 106
+},
+{
+  "_id": {
+    "$oid": "656cdd3d63cc1ef44860af46"
+  },
+  "Cust_ID": 337,
+  "Cust_name": "Addison Taylor",
+  "Cust_phone": "555-333-7777",
+  "Hotel_ID": 107
+},
+{
+  "_id": {
+    "$oid": "656cdd3d63cc1ef44860af47"
+  },
+  "Cust_ID": 338,
+  "Cust_name": "Wyatt Smith",
+  "Cust_phone": "777-999-4444",
+  "Hotel_ID": 108
+},
+{
+  "_id": {
+    "$oid": "656cdd3d63cc1ef44860af48"
+  },
+  "Cust_ID": 339,
+  "Cust_name": "Natalie Anderson",
+  "Cust_phone": "333-111-2222",
+  "Hotel_ID": 109
+},
+{
+  "_id": {
+    "$oid": "656cdd3d63cc1ef44860af49"
+  },
+  "Cust_ID": 340,
+  "Cust_name": "Owen Taylor",
+  "Cust_phone": "111-555-8888",
+  "Hotel_ID": 110
+},
+{
+  "_id": {
+    "$oid": "656cdd3d63cc1ef44860af4a"
+  },
+  "Cust_ID": 341,
+  "Cust_name": "Evelyn Johnson",
+  "Cust_phone": "444-666-7777",
+  "Hotel_ID": 101
+},
+{
+  "_id": {
+    "$oid": "656cdd3d63cc1ef44860af4b"
+  },
+  "Cust_ID": 342,
+  "Cust_name": "Andrew Smith",
+  "Cust_phone": "555-777-8888",
+  "Hotel_ID": 102
+},
+{
+  "_id": {
+    "$oid": "656cdd3d63cc1ef44860af4c"
+  },
+  "Cust_ID": 343,
+  "Cust_name": "Zoe White",
+  "Cust_phone": "666-333-4444",
+  "Hotel_ID": 103
+},
+{
+  "_id": {
+    "$oid": "656cdd3d63cc1ef44860af4d"
+  },
+  "Cust_ID": 344,
+  "Cust_name": "Lincoln Davis",
+  "Cust_phone": "777-444-5555",
+  "Hotel_ID": 104
+},
+{
+  "_id": {
+    "$oid": "656cdd3d63cc1ef44860af4e"
+  },
+  "Cust_ID": 345,
+  "Cust_name": "Brooklyn Wilson",
+  "Cust_phone": "888-111-2222",
+  "Hotel_ID": 105
+},
+{
+  "_id": {
+    "$oid": "656cdd3d63cc1ef44860af4f"
+  },
+  "Cust_ID": 346,
+  "Cust_name": "Caleb Brown",
+  "Cust_phone": "111-333-6666",
+  "Hotel_ID": 106
+},
+{
+  "_id": {
+    "$oid": "656cdd3d63cc1ef44860af50"
+  },
+  "Cust_ID": 347,
+  "Cust_name": "Hazel Taylor",
+  "Cust_phone": "333-666-9999",
+  "Hotel_ID": 107
+},
+{
+  "_id": {
+    "$oid": "656cdd3d63cc1ef44860af51"
+  },
+  "Cust_ID": 348,
+  "Cust_name": "Matthew Anderson",
+  "Cust_phone": "666-999-1111",
+  "Hotel_ID": 108
+},
+{
+  "_id": {
+    "$oid": "656cdd3d63cc1ef44860af52"
+  },
+  "Cust_ID": 349,
+  "Cust_name": "Stella Smith",
+  "Cust_phone": "888-111-5555",
+  "Hotel_ID": 109
+},
+{
+  "_id": {
+    "$oid": "656cdd3d63cc1ef44860af53"
+  },
+  "Cust_ID": 350,
+  "Cust_name": "Axel Taylor",
+  "Cust_phone": "555-999-3333",
+  "Hotel_ID": 110
+},
+{
+  "_id": {
+    "$oid": "656cdd3d63cc1ef44860af54"
+  },
+  "Cust_ID": 351,
+  "Cust_name": "Superman",
+  "Cust_phone": "617-585-9999",
+  "Hotel_ID": 107
+},
+{
+  "_id": {
+    "$oid": "656cdd3d63cc1ef44860af55"
+  },
+  "Cust_ID": 352,
+  "Cust_name": "Batman",
+  "Cust_phone": "857-959-6464",
+  "Hotel_ID": 107
+},
+{
+  "_id": {
+    "$oid": "656cdd3d63cc1ef44860af56"
+  },
+  "Cust_ID": 353,
+  "Cust_name": "Loki",
+  "Cust_phone": "959-841-8523",
+  "Hotel_ID": 107
+},
+{
+  "_id": {
+    "$oid": "656cdd3d63cc1ef44860af57"
+  },
+  "Cust_ID": 354,
+  "Cust_name": "Venkat",
+  "Cust_phone": "857-959-7412",
+  "Hotel_ID": 105
+},
+{
+  "_id": {
+    "$oid": "656cdd3d63cc1ef44860af58"
+  },
+  "Cust_ID": 355,
+  "Cust_name": "Vachan",
+  "Cust_phone": "508-202-3984",
+  "Hotel_ID": 105
+},
+{
+  "_id": {
+    "$oid": "656cdd3d63cc1ef44860af59"
+  },
+  "Cust_ID": 356,
+  "Cust_name": "Anirudh",
+  "Cust_phone": "617-238-4850",
+  "Hotel_ID": 109
+}]
